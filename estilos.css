@@ -1,0 +1,55 @@
+.titulo {
+
+margin-top: 50px;
+
+}
+
+h2 {
+
+   font-weight: bold;
+
+    text-align: center;
+}
+
+h3 {
+
+
+margin-left: 100px;
+
+margin-right: 100px;
+
+}
+.contenedorTabla{
+
+display: flex;
+justify-content: center;
+
+
+}
+
+.contenedorCuerpo {
+
+    text-align: center;
+
+}
+
+
+
+table {
+    justify-content: center;
+    width: 80%;
+    border-collapse: collapse;
+  
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+
+
+table thead {
+    background:#302b63;
+    color:white;
+}
